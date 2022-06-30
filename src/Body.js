@@ -2,7 +2,7 @@ import React from 'react'
 import "./Body.css"
 import { Slide } from 'react-slideshow-image';
 import 'react-slideshow-image/dist/styles.css';
-import {Row, Col} from 'react-bootstrap';
+
 
 const slideImages = [
     {

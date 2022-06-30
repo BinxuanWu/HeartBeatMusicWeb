@@ -16,6 +16,11 @@ function SignIn() {
                     <h2>Sign in</h2>
                 </Col>
                 
+                <form>
+                    <Col>
+                    
+                    </Col>
+                </form>
             </Row>
 
         </Container>
