@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/HeartBeatMusicWeb/static/css/main.e93ecded.css",
-    "main.js": "/HeartBeatMusicWeb/static/js/main.42579c9a.js",
+    "main.css": "/HeartBeatMusicWeb/static/css/main.f62c2c25.css",
+    "main.js": "/HeartBeatMusicWeb/static/js/main.0474a5ba.js",
     "static/js/787.92dade40.chunk.js": "/HeartBeatMusicWeb/static/js/787.92dade40.chunk.js",
     "static/media/logo.png": "/HeartBeatMusicWeb/static/media/logo.5181607b9da913106c02.png",
     "index.html": "/HeartBeatMusicWeb/index.html",
-    "main.e93ecded.css.map": "/HeartBeatMusicWeb/static/css/main.e93ecded.css.map",
-    "main.42579c9a.js.map": "/HeartBeatMusicWeb/static/js/main.42579c9a.js.map",
+    "main.f62c2c25.css.map": "/HeartBeatMusicWeb/static/css/main.f62c2c25.css.map",
+    "main.0474a5ba.js.map": "/HeartBeatMusicWeb/static/js/main.0474a5ba.js.map",
     "787.92dade40.chunk.js.map": "/HeartBeatMusicWeb/static/js/787.92dade40.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e93ecded.css",
-    "static/js/main.42579c9a.js"
+    "static/css/main.f62c2c25.css",
+    "static/js/main.0474a5ba.js"
   ]
 }
