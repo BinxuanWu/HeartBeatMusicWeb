@@ -5,16 +5,7 @@
     height: 80vh;
 }
 
-.signin-container{
+.signup-container{
     margin-top: 5%;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
-}
-
-.signup-hint {
-    font-size: medium;
-    color: gray;
-}
-
-.signup-hint:hover {
-    color: skyblue;
 }

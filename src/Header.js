@@ -15,10 +15,12 @@ function Header({ backButton }) {
     <div className='header'>
         
         <div>
+        <Link className ="main" to="/HeartBeatMusicWeb" style={{textDecoration:'none'}}>
             <img className = "header_logo"
             src = {logo}
             alt = "heartbeat-logo"
             />
+        </Link>
         </div> 
 
         <div className='header_search'>

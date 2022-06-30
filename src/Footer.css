@@ -1,3 +1,7 @@
+* {
+    box-sizing: content-box !important;
+}
+
 .footer {
     position: fixed;
     display: flex;

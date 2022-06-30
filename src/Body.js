@@ -75,7 +75,7 @@ function Body() {
                             <dd class= 'cate-name'>As It Was</dd>
                             <dd class= 'cate-name'>Wait For U</dd>
                             <dd class= 'cate-name'>Falling Back</dd>
-                            <dd class= 'cate-name'>Glimpse Of Us</dd>
+                            
                         </dl>
                     </div>
                     <div className='cate-submenu'>
