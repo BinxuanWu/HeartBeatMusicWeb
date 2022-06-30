@@ -23,6 +23,13 @@ function App() {
             <Footer/></>
           }/>
 
+        <Route path="/" 
+          element={<>
+            <Header/>
+            <Body/>
+            <Footer/></>
+          }/>
+
         <Route path="/signin" 
           element={<SignIn/>}/>
 

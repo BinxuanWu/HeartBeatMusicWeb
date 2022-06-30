@@ -6,12 +6,13 @@ import 'react-slideshow-image/dist/styles.css';
 
 const slideImages = [
     {
-      url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEFffndHFaPTQPoKHquvtFx9HWXfhB_ENqyg&usqp=CAU',
+      
+      url: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.pLiHxqpAD30YAOdbjOG80AHaEK%26pid%3DApi&f=1',
       caption: 'Slide 1'
     },
     {
-      url: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.pLiHxqpAD30YAOdbjOG80AHaEK%26pid%3DApi&f=1',
-      caption: 'Slide 2'
+        url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEFffndHFaPTQPoKHquvtFx9HWXfhB_ENqyg&usqp=CAU',
+        caption: 'Slide 2'
     },
     {
       url: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.hcVnbNPmyHRuN6wY0u3EQwHaE8%26pid%3DApi&f=1',
