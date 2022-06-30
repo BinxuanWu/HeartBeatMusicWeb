@@ -115,7 +115,7 @@ function Body() {
             
 
                 <div className="popular">
-                    <h3>Popular</h3>
+                    <h3>You May Like</h3>
 
                     <img className='alb-image' src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.mDfU2bGBQilOd1NMeuN1YQHaHa%26pid%3DApi&f=1" />
                     <img className='alb-image' src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.iyv4fV8NwaWpY32a9FywPwHaHa%26pid%3DApi&f=1" />

@@ -4,6 +4,7 @@ import Footer from "./Footer"
 import SignIn from "./SignIn"
 import SignUp from "./SignUp"
 import Account from "./Account"
+import Search from "./Search"
 import { BrowserRouter, Routes, Route, } from "react-router-dom";
 
 import './App.css';
@@ -30,6 +31,9 @@ function App() {
 
         <Route path="/account" 
           element={<Account/>}/>
+
+        <Route path="/search"
+          element={<Search/>}/>
 
         
       </Routes>

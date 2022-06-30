@@ -50,4 +50,11 @@
     color: white;
 }
 
+.searchBtn {
+    color:red;
+}
+
+.searchBtn:hover {
+    color: pink;
+}
 

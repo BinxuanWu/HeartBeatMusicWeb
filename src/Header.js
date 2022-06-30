@@ -28,7 +28,9 @@ function Header({ backButton }) {
                 placeholder="Search!"
                 type='text'
             />
-            <SearchIcon/>
+            <Link className='searchBtn' to="/search" style={{textDecoration:'none'}}>
+                <SearchIcon/>
+            </Link>
         </div>
         
 
