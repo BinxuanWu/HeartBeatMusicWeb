@@ -32,9 +32,11 @@ function SignIn() {
                     </Form.Text>
                 </Form.Group>
               
+            <Link class="signinBtn" to="/HeartBeatMusicWeb" style={{textDecoration:'none'}}>
               <Button variant="primary" type="submit">
                 Sign in !!
               </Button>
+            </Link>  
             </Form>
             <br/>
 

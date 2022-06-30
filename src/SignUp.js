@@ -36,9 +36,12 @@ function SignUp() {
                     </Form.Text>
                 </Form.Group>
               
-              <Button variant="primary" type="submit">
-                Sign up !!
-              </Button>
+              <Link class="signupBtn" to="/HeartBeatMusicWeb" style={{textDecoration:'none'}}>
+                <Button variant="primary" type="submit">
+                  Sign up !!
+                </Button>
+              </Link>
+              
             </Form>
             <br/>
 

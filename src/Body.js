@@ -65,7 +65,7 @@ function Body() {
                             <dt class= 'cate-title'>Artist</dt>
                             <dd class= 'cate-name'>Michael Jackson</dd>
                             <dd class= 'cate-name'>Taylor Swift</dd>
-                            <dd class= 'cate-name'>DECO* 27</dd>
+                            <dd class= 'cate-name'>DECO*27</dd>
                         </dl>
                     </div>
                     <hr style={{'margin-top': '16px'}}/>

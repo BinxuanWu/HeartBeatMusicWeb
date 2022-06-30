@@ -24,18 +24,21 @@ function Header({ backButton }) {
         </div> 
 
         <div className='header_search'>
-            <SearchIcon/>
             <input
                 placeholder="Search!"
                 type='text'
             />
+            <SearchIcon/>
         </div>
         
 
         <div className='header_right'>
-            <IconButton>
-                <PersonIcon className= "header_icon" style={{ color: "white" }} fontSize="large"/>
-            </IconButton>
+            <Link className = "accountBtn" to="/account" style={{textDecoration:'none'}}>
+                <IconButton>
+                    <PersonIcon className= "header_icon" style={{ color: "white" }} fontSize="large"/>
+                </IconButton>
+            </Link>
+            
 
             <Link className ="signin" to="/signin" style={{textDecoration:'none'}}>
                 <h4>Sign in</h4>

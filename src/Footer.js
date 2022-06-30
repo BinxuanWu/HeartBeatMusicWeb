@@ -21,8 +21,8 @@ function Footer() {
                 alt=""
             />
             <div className='footer_songInfo'>
-                <h4> HHH</h4>
-                <p>USdagsdfaf</p>
+                <h5>-Song Name-</h5>
+                <p>-Artist-</p>
             </div>
             <div className = 'footer_time'>
                 <Slider 
